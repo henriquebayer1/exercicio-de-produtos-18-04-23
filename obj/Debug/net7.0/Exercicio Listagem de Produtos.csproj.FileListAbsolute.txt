@@ -1,0 +1,15 @@
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\bin\Debug\net7.0\Exercicio Listagem de Produtos.exe
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\bin\Debug\net7.0\Exercicio Listagem de Produtos.deps.json
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\bin\Debug\net7.0\Exercicio Listagem de Produtos.runtimeconfig.json
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\bin\Debug\net7.0\Exercicio Listagem de Produtos.dll
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\bin\Debug\net7.0\Exercicio Listagem de Produtos.pdb
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.dll
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\refint\Exercicio Listagem de Produtos.dll
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.pdb
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\Exercicio Listagem de Produtos.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\Exercicio Listagem de Produtos\obj\Debug\net7.0\ref\Exercicio Listagem de Produtos.dll
